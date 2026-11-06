@@ -1,0 +1,10 @@
+{
+ "name": "ielts-band-calculator",
+ "title": "Band Score Calculator",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Vocabulary and Planning",
+ "desc": "Turn Listening and Reading raw scores into approximate bands, and work out your overall band with the official rounding rule.",
+ "content": [],
+ "n": 88
+}

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-process-diagrams", "title": "Task 1 Process Diagrams", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Describe processes such as recycling glass or making tea, with sequencing language and the passive voice.", "content": ["processes.json"], "n": 45};

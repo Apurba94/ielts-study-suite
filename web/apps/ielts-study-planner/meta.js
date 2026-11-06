@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-study-planner", "title": "IELTS Study Planner", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Turn your test date, hours and weakest skills into a week-by-week plan you can tick off.", "content": [], "n": 89};

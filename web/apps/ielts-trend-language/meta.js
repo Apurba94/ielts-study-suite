@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-trend-language", "title": "Language of Change", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Rose sharply, levelled off, fluctuated: choose the right verb and adverb for generated changes in data.", "content": [], "n": 47};

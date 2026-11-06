@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-collocations", "title": "Collocation Trainer", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Learn which words go together, such as make a decision and heavy traffic, with quick quizzes.", "content": ["collocations.json", "collocations_more.json"], "n": 83};

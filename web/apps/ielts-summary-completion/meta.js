@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-summary-completion", "title": "Summary Completion", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Complete summaries of a passage, from a box of words or with words from the text.", "content": ["reading_passages.json"], "n": 27};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-shadowing", "title": "Shadowing Coach", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Speak along with a voice, line by line, to build rhythm and natural pronunciation.", "content": ["listening_talks.json"], "n": 77};

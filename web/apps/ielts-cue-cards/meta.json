@@ -1,0 +1,12 @@
+{
+ "name": "ielts-cue-cards",
+ "title": "Part 2 Cue Cards",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Prepare for one minute with notes, then speak for up to two minutes on a cue card, recorded.",
+ "content": [
+  "cue_cards.json"
+ ],
+ "n": 62
+}

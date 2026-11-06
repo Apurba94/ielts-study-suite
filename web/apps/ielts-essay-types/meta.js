@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-essay-types", "title": "Essay Type Spotter", "exam": "IELTS", "module": "Both", "area": "Writing", "desc": "Decide whether a prompt asks for an opinion, a discussion, problems and solutions, or advantages and disadvantages.", "content": ["essay_prompts.json"], "n": 53};

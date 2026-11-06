@@ -1,0 +1,12 @@
+{
+ "name": "ielts-matching-features",
+ "title": "Matching Features",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "Match statements to the researchers, places or dates they belong to, in passages that mention several of each.",
+ "content": [
+  "matching_features.json"
+ ],
+ "n": 25
+}

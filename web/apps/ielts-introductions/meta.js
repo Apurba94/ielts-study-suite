@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-introductions", "title": "Introduction Trainer", "exam": "IELTS", "module": "Both", "area": "Writing", "desc": "Choose and write introductions that paraphrase the prompt and give a clear position.", "content": ["introductions.json", "essay_prompts.json"], "n": 55};

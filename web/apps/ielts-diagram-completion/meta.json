@@ -1,0 +1,12 @@
+{
+ "name": "ielts-diagram-completion",
+ "title": "Flow-Chart and Diagram Completion",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "Read descriptions of processes and complete the flow-chart or the labels of a diagram.",
+ "content": [
+  "reading_processes.json"
+ ],
+ "n": 29
+}

@@ -1,0 +1,12 @@
+{
+ "name": "ielts-part2-notes",
+ "title": "Part 2 Note Planner",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Use the one minute of preparation well: plan keywords for each point on the card, then speak from your notes.",
+ "content": [
+  "cue_cards.json"
+ ],
+ "n": 73
+}

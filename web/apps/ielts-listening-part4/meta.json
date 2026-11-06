@@ -1,0 +1,12 @@
+{
+ "name": "ielts-listening-part4",
+ "title": "Part 4 Lectures",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Listening",
+ "desc": "Listen to short academic lectures and complete the notes with one word only, as in Part 4.",
+ "content": [
+  "listening_lectures.json"
+ ],
+ "n": 6
+}

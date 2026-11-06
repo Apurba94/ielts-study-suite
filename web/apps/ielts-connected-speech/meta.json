@@ -1,0 +1,12 @@
+{
+ "name": "ielts-connected-speech",
+ "title": "Connected Speech Trainer",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Understand linking and reduced forms, such as gonna and wanna, in natural spoken English.",
+ "content": [
+  "connected_speech.json"
+ ],
+ "n": 69
+}

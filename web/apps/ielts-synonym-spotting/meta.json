@@ -1,0 +1,12 @@
+{
+ "name": "ielts-synonym-spotting",
+ "title": "Synonym Spotting",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "Match the words in questions to the different words the passage uses for the same idea.",
+ "content": [
+  "synonyms.json"
+ ],
+ "n": 35
+}

@@ -1,0 +1,12 @@
+{
+ "name": "ielts-gt-everyday-texts",
+ "title": "Everyday Texts (General Training)",
+ "exam": "IELTS",
+ "module": "General Training",
+ "area": "Reading",
+ "desc": "Notices, adverts, timetables and leaflets with General Training Section 1 style questions.",
+ "content": [
+  "gt_texts.json"
+ ],
+ "n": 31
+}

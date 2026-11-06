@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-listening-vocab", "title": "Listening Topic Words", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Hear and spell the words that come up again and again in IELTS Listening: accommodation, transport, health, study and more.", "content": ["listening_words.json"], "n": 16};

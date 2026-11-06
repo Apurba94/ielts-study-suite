@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-answer-prediction", "title": "Answer Prediction", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Before you listen, predict what kind of word fits each gap: a number, a plural noun, a name or an adjective.", "content": ["prediction.json"], "n": 14};

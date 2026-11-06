@@ -1,0 +1,12 @@
+{
+ "name": "ielts-complex-sentences",
+ "title": "Complex Sentence Builder",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Writing",
+ "desc": "Join simple sentences with relative clauses, conditionals and participles, for a wider range of structures.",
+ "content": [
+  "complex_sentences.json"
+ ],
+ "n": 60
+}

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-speculating", "title": "Speculating and Comparing", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "The language Part 3 needs: talking about the future, comparing past and present, and giving balanced views.", "content": ["speculating.json"], "n": 75};

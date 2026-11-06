@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-distractor-trainer", "title": "Distractor Trainer", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Speakers change their minds and correct each other. Learn to catch the final answer, not the first one you hear.", "content": [], "n": 8};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-listening-test", "title": "Listening Test Simulator", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "A full Listening practice test: four parts and 40 questions, heard once, with 2 minutes to check at the end, as on computer.", "content": ["listening_talks.json", "listening_discussions.json", "listening_lectures.json"], "n": 15};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-listening-part2", "title": "Part 2 Talks", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Listen to talks about everyday places and events, such as a museum tour or a sports club, and answer Part 2 style questions.", "content": ["listening_talks.json"], "n": 4};

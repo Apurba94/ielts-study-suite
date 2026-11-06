@@ -1,0 +1,12 @@
+{
+ "name": "ielts-speaking-part3",
+ "title": "Speaking Part 3 Discussion",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Answer deeper questions linked to the Part 2 topics, giving reasons, examples and comparisons.",
+ "content": [
+  "cue_cards.json"
+ ],
+ "n": 63
+}

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-academic-reading", "title": "Academic Reading Practice", "exam": "IELTS", "module": "Academic", "area": "Reading", "desc": "Long academic passages with a mix of question types, timed at 20 minutes each, as in the Academic test.", "content": ["reading_passages.json"], "n": 30};

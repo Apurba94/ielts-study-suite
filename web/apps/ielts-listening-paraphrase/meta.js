@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-listening-paraphrase", "title": "Paraphrase Spotting", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "IELTS rarely repeats the words in the question. Hear a sentence and choose the option that says the same thing differently.", "content": ["listening_paraphrase.json"], "n": 20};

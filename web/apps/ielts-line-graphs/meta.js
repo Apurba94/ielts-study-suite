@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-line-graphs", "title": "Task 1 Line Graphs", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Generated line graphs to describe: pick the key features, then write a 150-word report in 20 minutes.", "content": [], "n": 41};

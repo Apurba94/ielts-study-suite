@@ -1,0 +1,12 @@
+{
+ "name": "ielts-maps-writing",
+ "title": "Task 1 Maps",
+ "exam": "IELTS",
+ "module": "Academic",
+ "area": "Writing",
+ "desc": "Describe how a place changed between two maps, with the language of location and development.",
+ "content": [
+  "maps.json"
+ ],
+ "n": 46
+}

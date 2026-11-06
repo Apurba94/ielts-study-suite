@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-skimming", "title": "Skimming Trainer", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Read a paragraph against the clock and pick its main idea, to build the speed IELTS Reading needs.", "content": ["reading_passages.json"], "n": 33};

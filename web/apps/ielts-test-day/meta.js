@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-test-day", "title": "IELTS Test Day Planner", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "A countdown and checklist for the week before, the day itself and the Speaking test.", "content": [], "n": 93};

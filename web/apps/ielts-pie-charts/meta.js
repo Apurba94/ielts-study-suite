@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-pie-charts", "title": "Task 1 Pie Charts", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Generated pie charts with proportions to describe, compare and group, with timed writing.", "content": [], "n": 43};

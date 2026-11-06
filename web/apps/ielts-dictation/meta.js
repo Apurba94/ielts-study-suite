@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-dictation", "title": "Dictation Trainer", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Hear a sentence, type it, and see word by word what you missed.", "content": ["dictation.json"], "n": 11};

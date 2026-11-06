@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-speaking-test", "title": "Speaking Test Simulator", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "A full practice Speaking test: Part 1, Part 2 and Part 3 in order, with the questions read aloud and your answers recorded.", "content": ["speaking_part1.json", "cue_cards.json"], "n": 64};

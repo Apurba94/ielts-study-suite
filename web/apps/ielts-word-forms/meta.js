@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-word-forms", "title": "Word Form Trainer", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Choose the right form of a word for the sentence: noun, verb, adjective or adverb.", "content": ["word_forms.json"], "n": 84};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-gt-workplace-texts", "title": "Workplace Texts (General Training)", "exam": "IELTS", "module": "General Training", "area": "Reading", "desc": "Job adverts, staff handbooks and training notices with General Training Section 2 style questions.", "content": ["gt_texts.json"], "n": 32};

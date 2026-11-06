@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-speaking-self-check", "title": "Speaking Self-Check", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Listen back to your recordings and check them against the four things examiners judge.", "content": [], "n": 74};

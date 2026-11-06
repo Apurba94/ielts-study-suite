@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-speaking-phrases", "title": "Speaking Phrase Bank", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Phrases to give opinions, gain time, compare, speculate and describe, with practice for each.", "content": ["phrases.json", "speaking_phrases.json"], "n": 70};

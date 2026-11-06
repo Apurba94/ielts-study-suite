@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-speaking-journal", "title": "Speaking Journal", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "A daily one-minute recording diary with prompts, to make speaking English a habit.", "content": ["cue_cards.json"], "n": 76};

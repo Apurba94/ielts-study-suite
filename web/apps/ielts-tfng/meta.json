@@ -1,0 +1,12 @@
+{
+ "name": "ielts-tfng",
+ "title": "True, False or Not Given",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "Decide whether statements agree with a text, contradict it, or are not mentioned, with the reason for every answer.",
+ "content": [
+  "tfng.json"
+ ],
+ "n": 21
+}

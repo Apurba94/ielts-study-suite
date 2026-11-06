@@ -1,0 +1,12 @@
+{
+ "name": "ielts-dashboard",
+ "title": "IELTS Dashboard",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Vocabulary and Planning",
+ "desc": "One page that brings together your study time, accuracy, bands, streaks and weak areas from every app.",
+ "content": [
+  "catalogue.json"
+ ],
+ "n": 99
+}

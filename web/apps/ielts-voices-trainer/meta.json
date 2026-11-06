@@ -1,0 +1,12 @@
+{
+ "name": "ielts-voices-trainer",
+ "title": "Different Voices Trainer",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Listening",
+ "desc": "Hear the same sentences in every English voice on your computer, at different speeds, as IELTS uses a range of accents.",
+ "content": [
+  "dictation.json"
+ ],
+ "n": 12
+}

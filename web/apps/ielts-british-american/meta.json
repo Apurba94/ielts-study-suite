@@ -1,0 +1,12 @@
+{
+ "name": "ielts-british-american",
+ "title": "British and American English",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Vocabulary and Planning",
+ "desc": "Spellings and words that differ, such as colour and color or flat and apartment. Both are accepted if you stay consistent.",
+ "content": [
+  "british_american.json"
+ ],
+ "n": 87
+}

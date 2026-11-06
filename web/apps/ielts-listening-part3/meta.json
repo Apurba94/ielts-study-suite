@@ -1,0 +1,12 @@
+{
+ "name": "ielts-listening-part3",
+ "title": "Part 3 Discussions",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Listening",
+ "desc": "Listen to students and tutors discussing assignments, and answer multiple-choice and matching questions.",
+ "content": [
+  "listening_discussions.json"
+ ],
+ "n": 5
+}

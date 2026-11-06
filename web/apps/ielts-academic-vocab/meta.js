@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-academic-vocab", "title": "Academic Word Trainer", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Spaced-repetition cards for the academic words that appear across Reading, Listening and Writing.", "content": ["academic_words.json"], "n": 81};

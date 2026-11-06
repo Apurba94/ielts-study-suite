@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-bar-charts", "title": "Task 1 Bar Charts", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Generated bar charts to describe and compare, with key-feature questions and a timed writing space.", "content": [], "n": 42};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-requirements", "title": "Score Requirements Tracker", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Record the overall and per-skill bands your universities or visa need, and see which ones your scores meet.", "content": [], "n": 96};

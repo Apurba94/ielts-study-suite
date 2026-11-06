@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-overview-trainer", "title": "Task 1 Overview Trainer", "exam": "IELTS", "module": "Academic", "area": "Writing", "desc": "Choose the best overview for a generated chart. The overview is what examiners look for first.", "content": [], "n": 49};

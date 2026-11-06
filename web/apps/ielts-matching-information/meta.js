@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-matching-information", "title": "Matching Information", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Find which paragraph contains a given piece of information, such as an example, a comparison or a reason.", "content": ["reading_passages.json"], "n": 24};

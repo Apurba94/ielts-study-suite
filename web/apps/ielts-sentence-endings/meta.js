@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-sentence-endings", "title": "Matching Sentence Endings", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Complete each sentence with the ending that matches the passage, where several endings are grammatical but only one is true.", "content": ["reading_passages.json"], "n": 26};

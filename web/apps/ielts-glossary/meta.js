@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-glossary", "title": "IELTS Terms Glossary", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Plain explanations of the terms in IELTS guides, from Academic and General Training to One Skill Retake.", "content": ["glossary.json"], "n": 98};

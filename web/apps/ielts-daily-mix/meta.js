@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-daily-mix", "title": "IELTS Daily Mix", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "Fifteen minutes a day across listening, reading, writing and vocabulary, with a streak.", "content": ["tfng.json", "listening_clips.json", "academic_words.json", "grammar.json"], "n": 94};

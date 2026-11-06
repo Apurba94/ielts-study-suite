@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-signpost-listening", "title": "Lecture Signposts", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Learn the phrases lecturers use to move between points, so you always know where the next answer is.", "content": ["signposts.json"], "n": 13};

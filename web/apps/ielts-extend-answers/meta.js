@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-extend-answers", "title": "Extending Your Answers", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Compare short and developed answers, and learn to add a reason, an example or a contrast every time.", "content": ["extend_answers.json"], "n": 72};

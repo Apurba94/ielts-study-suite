@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-minimal-pairs", "title": "Minimal Pairs Trainer", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Hear one of two close words, such as ship and sheep, and pick which one, to sharpen the sounds you say.", "content": ["minimal_pairs.json"], "n": 66};

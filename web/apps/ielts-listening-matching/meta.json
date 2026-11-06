@@ -1,0 +1,13 @@
+{
+ "name": "ielts-listening-matching",
+ "title": "Listening Matching",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Listening",
+ "desc": "Match people, places or options to what speakers say about them, as in Parts 2 and 3.",
+ "content": [
+  "listening_discussions.json",
+  "listening_talks.json"
+ ],
+ "n": 10
+}

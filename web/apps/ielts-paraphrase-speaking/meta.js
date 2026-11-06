@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-paraphrase-speaking", "title": "Say It Another Way", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Forgot a word? Learn to describe it instead, and practise paraphrasing so you never stop mid-sentence.", "content": ["circumlocution.json"], "n": 80};

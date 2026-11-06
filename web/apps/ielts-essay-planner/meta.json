@@ -1,0 +1,12 @@
+{
+ "name": "ielts-essay-planner",
+ "title": "Task 2 Planner",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Writing",
+ "desc": "Plan an essay in five minutes with the right structure for its type, then write from your plan.",
+ "content": [
+  "essay_prompts.json"
+ ],
+ "n": 54
+}

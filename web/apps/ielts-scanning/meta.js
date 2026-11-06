@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-scanning", "title": "Scanning Trainer", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Find names, dates and numbers in a passage as fast as you can. Questions are made from the passages, so there are over a hundred.", "content": ["reading_passages.json", "gt_texts.json"], "n": 34};

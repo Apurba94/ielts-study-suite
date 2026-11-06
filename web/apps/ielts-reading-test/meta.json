@@ -1,0 +1,14 @@
+{
+ "name": "ielts-reading-test",
+ "title": "Reading Test Simulator",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "A full Reading practice test: three sections and 40 questions in 60 minutes, in Academic or General Training form.",
+ "content": [
+  "reading_passages.json",
+  "gt_texts.json",
+  "tfng.json"
+ ],
+ "n": 37
+}

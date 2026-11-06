@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-gt-letters", "title": "Task 1 Letters (General Training)", "exam": "IELTS", "module": "General Training", "area": "Writing", "desc": "Write formal, semi-formal and informal letters in 20 minutes, covering all three bullet points.", "content": ["letters.json"], "n": 50};

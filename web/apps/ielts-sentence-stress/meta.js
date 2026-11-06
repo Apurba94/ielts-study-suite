@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-sentence-stress", "title": "Sentence Stress Trainer", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Hear which word is stressed and what it adds to the meaning, then say sentences with natural stress.", "content": ["sentence_stress.json"], "n": 68};

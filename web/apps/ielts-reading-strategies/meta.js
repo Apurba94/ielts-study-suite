@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-reading-strategies", "title": "Reading Strategy Guide", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "A plan for every Reading question type: what to read first, the usual traps, and a short practice set.", "content": ["reading_passages.json", "tfng.json"], "n": 40};

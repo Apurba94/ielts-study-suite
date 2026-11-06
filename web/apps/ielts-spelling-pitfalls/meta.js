@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-spelling-pitfalls", "title": "Spelling Pitfalls", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Hear and type the words test takers misspell most, such as accommodation, environment and necessary. A wrong spelling is a wrong answer.", "content": ["spelling_words.json"], "n": 17};

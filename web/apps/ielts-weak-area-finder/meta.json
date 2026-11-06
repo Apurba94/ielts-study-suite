@@ -1,0 +1,15 @@
+{
+ "name": "ielts-weak-area-finder",
+ "title": "IELTS Weak Area Finder",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Vocabulary and Planning",
+ "desc": "A short diagnostic across the four skills, combined with your results in other apps, to show what to study next.",
+ "content": [
+  "tfng.json",
+  "listening_clips.json",
+  "grammar.json",
+  "synonyms.json"
+ ],
+ "n": 95
+}

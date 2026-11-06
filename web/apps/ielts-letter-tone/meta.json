@@ -1,0 +1,12 @@
+{
+ "name": "ielts-letter-tone",
+ "title": "Letter Tone Trainer",
+ "exam": "IELTS",
+ "module": "General Training",
+ "area": "Writing",
+ "desc": "Choose the right opening, closing and phrasing for formal, semi-formal and informal letters.",
+ "content": [
+  "letter_tone.json"
+ ],
+ "n": 51
+}

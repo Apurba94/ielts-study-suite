@@ -1,0 +1,12 @@
+{
+ "name": "ielts-task2-writer",
+ "title": "Task 2 Essay Writer",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Writing",
+ "desc": "Write a Task 2 essay of at least 250 words in 40 minutes, with original prompts of every type.",
+ "content": [
+  "essay_prompts.json"
+ ],
+ "n": 52
+}

@@ -1,0 +1,12 @@
+{
+ "name": "ielts-word-stress",
+ "title": "Word Stress Trainer",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Choose the stressed syllable of common words, and learn the patterns that predict stress.",
+ "content": [
+  "stress.json"
+ ],
+ "n": 67
+}

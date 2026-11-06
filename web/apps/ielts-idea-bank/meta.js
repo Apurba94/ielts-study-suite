@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-idea-bank", "title": "Idea Bank", "exam": "IELTS", "module": "Both", "area": "Speaking", "desc": "Arguments and examples for the topics that come up in Speaking Part 3 and Writing Task 2, for and against.", "content": ["ideas.json"], "n": 79};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-reading-mcq", "title": "Multiple-Choice Reading", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Multiple-choice questions on passages, including choose TWO, where every wrong option is wrong for a reason.", "content": ["reading_passages.json"], "n": 39};

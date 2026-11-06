@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-reference-words", "title": "Reference Words", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Work out what this, it, they and such refer to, a skill behind many wrong answers in Reading.", "content": ["reference.json"], "n": 38};

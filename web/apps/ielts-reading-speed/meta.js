@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-reading-speed", "title": "Reading Speed Trainer", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Measure your reading speed with IELTS-style passages, check understanding, and watch your speed grow.", "content": ["reading_passages.json"], "n": 36};

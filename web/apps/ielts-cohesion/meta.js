@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-cohesion", "title": "Cohesion Trainer", "exam": "IELTS", "module": "Both", "area": "Writing", "desc": "Linking words and reference words that join ideas without overusing however and moreover.", "content": ["linking.json", "cohesion.json"], "n": 57};

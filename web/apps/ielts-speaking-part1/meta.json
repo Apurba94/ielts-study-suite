@@ -1,0 +1,12 @@
+{
+ "name": "ielts-speaking-part1",
+ "title": "Speaking Part 1 Practice",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Speaking",
+ "desc": "Answer everyday questions about home, work, study and interests, read aloud and recorded, as in Part 1.",
+ "content": [
+  "speaking_part1.json"
+ ],
+ "n": 61
+}

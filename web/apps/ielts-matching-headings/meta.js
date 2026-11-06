@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-matching-headings", "title": "Matching Headings", "exam": "IELTS", "module": "Both", "area": "Reading", "desc": "Choose the heading that sums up each paragraph, and learn to ignore headings that only match one detail.", "content": ["reading_passages.json"], "n": 23};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-sentence-completion", "title": "Sentence Completion Listening", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Hear a short extract and complete a sentence about it with the right words from what you heard.", "content": ["listening_clips.json"], "n": 18};

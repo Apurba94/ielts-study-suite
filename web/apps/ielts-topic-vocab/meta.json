@@ -1,0 +1,12 @@
+{
+ "name": "ielts-topic-vocab",
+ "title": "Topic Vocabulary",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Vocabulary and Planning",
+ "desc": "Words for the topics IELTS returns to: environment, education, health, technology, work, cities and more.",
+ "content": [
+  "topic_vocab.json"
+ ],
+ "n": 82
+}

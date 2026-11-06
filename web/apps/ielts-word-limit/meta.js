@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-word-limit", "title": "Word Limit Rules", "exam": "IELTS", "module": "Both", "area": "Listening", "desc": "Practise the instructions such as NO MORE THAN TWO WORDS AND/OR A NUMBER, and check whether an answer breaks them.", "content": ["word_limits.json"], "n": 9};

@@ -1,0 +1,1 @@
+window.SK_META = {"name": "ielts-study-hours", "title": "Study Hours Tracker", "exam": "IELTS", "module": "Both", "area": "Vocabulary and Planning", "desc": "See the minutes you practised in every app of the suite, by day and skill, against a weekly goal.", "content": ["catalogue.json"], "n": 97};
